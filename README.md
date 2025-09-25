@@ -8,13 +8,13 @@ public class KlatmddudProfile {
     }
 
     private void profile() {
-        System.out.println("안녕하세요!")
-        System.out.println("Backend & Computer Vision을 공부하고 있는 학생 개발자입니다.")
+        System.out.println("👋 안녕하세요!")
+        System.out.println("🚀 Backend & Computer Vision을 공부하고 있는 학생 개발자입니다.")
     }
 }
 ```
 
-## 🚀 주요 기술 스택
+## 🛠️ 주요 기술 스택
 
 ### Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -37,7 +37,7 @@ public class KlatmddudProfile {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
+![RT-DETR](https://img.shields.io/badge/RT--DETR-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
 ## 🏗️ 주요 프로젝트
 
 ### 🎵 대학 밴드 동아리 관리 플랫폼
@@ -48,11 +48,6 @@ public class KlatmddudProfile {
 ### 📍 Together Pinz (위치 기반 할 일 앱)
 - **기술**: 위치 기반 서비스, 게임화 요소
 - **기능**: 위치 핀 생성, 작업 할당, 수집형 캐릭터 게임
-
-## 📊 GitHub 통계
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🎯 현재 관심사
 
@@ -68,7 +63,7 @@ public class KlatmddudProfile {
 
 ## 📫 연락처
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klatmddud@gmail.com)
 
 ---
