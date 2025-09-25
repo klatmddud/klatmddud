@@ -1,7 +1,18 @@
-# 👋 안녕하세요! Backend 및 Computer Vision을 공부하고 있는 학생 개발자입니다
+```java
+package com.klatmddud.profile;
 
-컴퓨터 비전과 백엔드에 관심있는 개발자입니다. 
-사용자 경험을 개선하고 사용자에게 필요한 개발을 하는 것을 좋아합니다.
+public class KlatmddudProfile {
+
+    public static void main(String[] args) {
+        profile();
+    }
+
+    private void profile() {
+        System.out.println("안녕하세요!")
+        System.out.println("Backend & Computer Vision을 공부하고 있는 학생 개발자입니다.")
+    }
+}
+```
 
 ## 🚀 주요 기술 스택
 
