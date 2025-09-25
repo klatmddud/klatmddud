@@ -1,4 +1,6 @@
-# 🖥️ klatmddud (Kim SeungYeong)
+<div align="center">
+    # Hi!👋 This is klatmddud (Kim SeungYeong)
+</div>
 
 ```java
 package com.klatmddud.profile;
@@ -65,7 +67,7 @@ public class KlatmddudProfile {
 
 ## 📫 연락처
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/승영-김-14ab86382)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klatmddud@gmail.com)
 
 ---
