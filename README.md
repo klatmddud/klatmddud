@@ -11,7 +11,7 @@ public class KlatmddudProfile {
         profile();
     }
 
-    private void profile() {
+    private static void profile() {
         System.out.println("👋 안녕하세요!")
         System.out.println("🚀 Backend & Computer Vision을 공부하고 있는 학생 개발자입니다.")
     }
